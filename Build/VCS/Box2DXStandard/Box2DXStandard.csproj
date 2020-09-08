@@ -2,7 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Description></Description>
+    <Description>This is a .NET Standard version of the Box2DX project, forked from https://github.com/colgreen/box2dx. Box2DX was originally created by Ihar Kalasouski and hosted at http://code.google.com/p/box2dx in order to provide a C# port of the populat physics engine Box2D by Erin Catto.</Description>
+    <PackageProjectUrl>https://github.com/Yeti47/box2dx</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Yeti47/box2dx</RepositoryUrl>
+    <PackageTags>Physics Engine, Box2D, .NET Standard</PackageTags>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
