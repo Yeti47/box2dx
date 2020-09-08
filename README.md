@@ -1,4 +1,10 @@
-# colgreen/box2dx
+# Box2DXStandard
+
+**Note:** This repository is a fork of https://github.com/colgreen/box2dx, a C# port of the Box2D project, originally implemented in C++ by Ihar Kalasouski. The purpose of this fork is to migrate the Box2DX project to .NET Standard 2.0.
+
+--
+
+# colgreen/box2dx (Original readme content)
 
 Box2DX is a C# port of the C++ Box2D project.
 
